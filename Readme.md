@@ -7,9 +7,11 @@ Welcome to my repository.Whether you decided to come here yourself or GitHub dro
 <br clear="left"/>
 </p>
 
-<img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="rights"  alt="2" width="300"> 
+
 
 # Task
+<img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="rights"  alt="2" width="300"> 
+
 - [Task1](#Task1)
 - [Task2](#Task2)
 - [Task3](#Task3)
