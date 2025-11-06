@@ -33,3 +33,21 @@ You need to find the sum of all even integers in the range between these two num
 
 The result is the total sum of all even numbers in the given range.
 
+
+  # Task2
+  
+  <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
+  
+-----
+
+<p> 
+----
+</p>
+
+<p> 
+------
+</p>
+
+-----
+
+
