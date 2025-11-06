@@ -1,9 +1,8 @@
 # Homework
 
 <p>
+*Welcome.Welcome to my repository.Whether you decided to come here yourself or GitHub dropped you here, it doesn't matter, because this is the best repository left.*
    <img src="https://github.com/BonniCapron/pict/blob/main/1.png" alt="1" width="300">
- *Welcome. 
-Welcome to my repository.Whether you decided to come here yourself or GitHub dropped you here, it doesn't matter, because this is the best repository left.*
   <br clear="left"/> <!-- щоб текст далі не обтікав -->
 </p>
 
