@@ -11,12 +11,11 @@ Welcome to my repository.Whether you decided to come here yourself or GitHub dro
 <p>
   
 # Task
-<img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="rights"  alt="2" width="300"> 
-
 - [Task1](#Task1)
 - [Task2](#Task2)
 - [Task3](#Task3)
 - [Task4](#Task4)
 - [Task5](#Task5)
+  <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="rights"  alt="2" width="300"> 
 <br clear="left"/>
 </p>
