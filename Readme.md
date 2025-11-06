@@ -8,7 +8,8 @@ Welcome to my repository.Whether you decided to come here yourself or GitHub dro
 </p>
 
 
-
+<p>
+  
 # Task
 <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="rights"  alt="2" width="300"> 
 
@@ -18,3 +19,4 @@ Welcome to my repository.Whether you decided to come here yourself or GitHub dro
 - [Task4](#Task4)
 - [Task5](#Task5)
 <br clear="left"/>
+</p>
