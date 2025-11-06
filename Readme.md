@@ -7,7 +7,7 @@ Welcome to my repository.Whether you decided to come here yourself or GitHub dro
 <br clear="left"/>
 </p>
 
-<img src="https://github.com/BonniCapron/pict/blob/main/1.png" align="left"  alt="1" width="300"> 
+<img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="rights"  alt="2" width="300"> 
 
 # Task
 - [Task1](#Task1)
@@ -15,5 +15,4 @@ Welcome to my repository.Whether you decided to come here yourself or GitHub dro
 - [Task3](#Task3)
 - [Task4](#Task4)
 - [Task5](#Task5)
-- 
 <br clear="left"/>
