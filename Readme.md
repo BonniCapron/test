@@ -16,6 +16,7 @@ Welcome to my repository.Whether you decided to come here yourself or GitHub dro
 - [Task3](#Task3)
 - [Task4](#Task4)
 - [Task5](#Task5)
+</p>
   <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="rights"  alt="2" width="300"> 
 <br clear="left"/>
-</p>
+
