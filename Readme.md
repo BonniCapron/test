@@ -9,7 +9,7 @@ Welcome to my repository.Whether you decided to come here yourself or GitHub dro
 
  
 # Task
-<img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="left" alt="2" width="300" style="margin-left: -10px;">
+<img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="riate" alt="2" width="300" style="margin-left: -10px;">
 
 - [Task1](#Task1)
 - [Task2](#Task2)
