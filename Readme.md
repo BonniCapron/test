@@ -25,7 +25,11 @@ You need to find the sum of all even integers in the range between these two num
 
 <p> 
 -if the number is even, it is added to the current sum
+</p>
+
+<p> 
 -if odd, the program moves to the next number.
 </p>
+
 The result is the total sum of all even numbers in the given range.
 
