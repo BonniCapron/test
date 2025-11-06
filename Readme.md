@@ -24,10 +24,8 @@ The user is given two integers — they can be entered from the keyboard or spec
 You need to find the sum of all even integers in the range between these two numbers, inclusive.Each number within the range is checked:
 
 <p> 
--[if the number is even, it is added to the current sum]
-
--[if odd, the program moves to the next number.]
+-if the number is even, it is added to the current sum
+-if odd, the program moves to the next number.
 </p>
-
 The result is the total sum of all even numbers in the given range.
 
