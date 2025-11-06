@@ -3,7 +3,7 @@
 <p>
 <img src="https://github.com/BonniCapron/pict/blob/main/1.png" align="right" alt="2" width="300" style="margin-left: 20px;">
 Welcome to my repository.Whether you decided to come here yourself or GitHub dropped you here, it doesn't matter, because this is the best repository left.
-<br clear="left"/>
+<br clear="right"/>
 </p>
 
  
