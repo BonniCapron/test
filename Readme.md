@@ -10,13 +10,13 @@ Welcome to my repository.Whether you decided to come here yourself or GitHub dro
  
 # Task
 
-- [Task1](#Task1)
-- [Task2](#Task2)
-- [Task3](#Task3)
-- [Task4](#Task4)
-- [Task5](#Task5)
+- [Task1](#Task-1)
+- [Task2](#Task-2)
+- [Task3](#Task-3)
+- [Task4](#Task-4)
+- [Task5](#Task-5)
 
-# Task1
+# Task-1
  <p>https://github.com/BonniCapron/test/blob/main/task1.cpp</p>
   <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
   
@@ -34,7 +34,7 @@ You need to find the sum of all even integers in the range between these two num
 The result is the total sum of all even numbers in the given range.
 <br clear="right"/>
 
-  # Task2
+  # Task-2
   
   <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
   
@@ -51,25 +51,7 @@ The result is the total sum of all even numbers in the given range.
 -----
 <br clear="right"/>
 
-  # Task3
-  
-  <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
-  
------
-
-<p> 
-----
-</p>
-
-<p> 
-------
-</p>
-
------
-<br clear="right"/>
-
-
-  # Task4
+  # Task-3
   
   <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
   
@@ -87,7 +69,25 @@ The result is the total sum of all even numbers in the given range.
 <br clear="right"/>
 
 
-  # Task5
+  # Task-4
+  
+  <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
+  
+-----
+
+<p> 
+----
+</p>
+
+<p> 
+------
+</p>
+
+-----
+<br clear="right"/>
+
+
+  # Task-5
   
   <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
   
