@@ -49,5 +49,58 @@ The result is the total sum of all even numbers in the given range.
 </p>
 
 -----
+<br clear="right"/>
 
+  # Task3
+  
+  <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
+  
+-----
+
+<p> 
+----
+</p>
+
+<p> 
+------
+</p>
+
+-----
+<br clear="right"/>
+
+
+  # Task4
+  
+  <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
+  
+-----
+
+<p> 
+----
+</p>
+
+<p> 
+------
+</p>
+
+-----
+<br clear="right"/>
+
+
+  # Task5
+  
+  <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
+  
+-----
+
+<p> 
+----
+</p>
+
+<p> 
+------
+</p>
+
+-----
+<br clear="right"/>
 
