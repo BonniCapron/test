@@ -32,7 +32,7 @@ You need to find the sum of all even integers in the range between these two num
 </p>
 
 The result is the total sum of all even numbers in the given range.
-
+<br clear="right"/>
 
   # Task2
   
