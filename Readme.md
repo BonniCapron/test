@@ -1,2 +1,2 @@
-Ласкаво просимо. Ласкаво просимо до мого репозиторію.
-*Чи ти сам вирішив сюди зайти, чи GitHub підкинув тебе сюди — неважливо, бо це найкраще сховище з усіх залишених.*
+#Homework
+*Welcome. Welcome to my repository.Whether you decided to come here yourself or GitHub dropped you here, it doesn't matter, because this is the best repository left.*
