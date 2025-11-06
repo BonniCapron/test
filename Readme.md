@@ -1,5 +1,5 @@
 # Homework
-<img src="https://github.com/BonniCapron/pict/blob/main/1.png" alt="1" width="1000">
+<img src="https://github.com/BonniCapron/pict/blob/main/1.png" alt="1" width="10">
 *Welcome. 
 Welcome to my repository.Whether you decided to come here yourself or GitHub dropped you here, it doesn't matter, because this is the best repository left.*
 # Task
