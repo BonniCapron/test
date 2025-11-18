@@ -37,18 +37,10 @@ The result is the total sum of all even numbers in the given range.
   
   <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
   
------
+Determining the type of a number (positive, negative, or zero)
+This is a simple program that asks the user for a number and determines whether it is positive, negative, or zero.
 
-<p> 
-----
-</p>
-
-<p> 
-------
-</p>
-
------
- <p>https://github.com/BonniCapron/test/blob/main/task1.cpp</p>
+ <p>https://github.com/BonniCapron/test/blob/main/task2.cpp</p>
 <br clear="right"/>
 
   # Task-3
@@ -66,7 +58,7 @@ The result is the total sum of all even numbers in the given range.
 </p>
 
 -----
- <p>https://github.com/BonniCapron/test/blob/main/task1.cpp</p>
+ <p>https://github.com/BonniCapron/test/blob/main/task3.cpp</p>
 <br clear="right"/>
 
 
@@ -85,7 +77,7 @@ The result is the total sum of all even numbers in the given range.
 </p>
 
 -----
- <p>https://github.com/BonniCapron/test/blob/main/task1.cpp</p>
+ <p>https://github.com/BonniCapron/test/blob/main/task4.cpp</p>
 <br clear="right"/>
 
 
@@ -104,6 +96,6 @@ The result is the total sum of all even numbers in the given range.
 </p>
 
 -----
- <p>https://github.com/BonniCapron/test/blob/main/task1.cpp</p>
+ <p>https://github.com/BonniCapron/test/blob/main/task5.cpp</p>
 <br clear="right"/>
 
