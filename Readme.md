@@ -71,5 +71,5 @@ A "lucky" ticket is considered to be one in which the sum of the first three dig
 <br clear="right"/>
 
 <h1>The end is here, there is nothing more</h>
- <img src="https://github.com/BonniCapron/pict/blob/main/3.png" align="right" alt="2" width="300" style="margin-left: 20px;">
- <br clear="right"/>
+ <img src="https://github.com/BonniCapron/pict/blob/main/3.png"alt="2" width="300" style="margin-left: 200px;">
+
