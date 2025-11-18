@@ -47,17 +47,7 @@ This is a simple program that asks the user for a number and determines whether 
   
   <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
   
------
-
-<p> 
-----
-</p>
-
-<p> 
-------
-</p>
-
------
+This simple C++ program demonstrates using the strlen() function from the <cstring> library to determine the length of a string.
  <p>https://github.com/BonniCapron/test/blob/main/task3.cpp</p>
 <br clear="right"/>
 
@@ -66,17 +56,7 @@ This is a simple program that asks the user for a number and determines whether 
   
   <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
   
------
-
-<p> 
-----
-</p>
-
-<p> 
-------
-</p>
-
------
+This program demonstrates how to convert an integer to a string in C++ using the standard to_string() function.
  <p>https://github.com/BonniCapron/test/blob/main/task4.cpp</p>
 <br clear="right"/>
 
@@ -85,17 +65,8 @@ This is a simple program that asks the user for a number and determines whether 
   
   <img src="https://github.com/BonniCapron/pict/blob/main/2.png" align="right" alt="2" width="300" style="margin-left: 20px;">
   
------
-
-<p> 
-----
-</p>
-
-<p> 
-------
-</p>
-
------
+This program iterates through all six-digit numbers from 000000 to 999999 and determines which of them are lucky tickets.
+A "lucky" ticket is considered to be one in which the sum of the first three digits is equal to the sum of the last three.
  <p>https://github.com/BonniCapron/test/blob/main/task5.cpp</p>
 <br clear="right"/>
 
